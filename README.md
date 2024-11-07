@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Java lover of 4+ years!<br><br>I'm currently learning<br>- Docker<br>- Kubernetes<br>- Spring/Spring Boot<br><br>Goals: <br>- Retire 😔</p>
+<p align="left">Java lover of 4+ years! Currently working at <a href="https://evokegames.gg/">EvokeGames</a><br><br>I'm currently learning<br>- Docker<br>- Kubernetes<br>- Spring/Spring Boot<br><br>Goals: <br>- Retire 😔</p>
 
 ###
 
